@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.xlsx
+MSCI/MSCI_IndexCalcMethodology_Jan2020.pdf
