@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 *.xlsx
 MSCI/MSCI_IndexCalcMethodology_Jan2020.pdf
+.DS_Store
