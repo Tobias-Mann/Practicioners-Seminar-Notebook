@@ -130,5 +130,3 @@ dmypy.json
 *.xlsx
 MSCI/MSCI_IndexCalcMethodology_Jan2020.pdf
 .DS_Store
-daily_forward_rates.csv
-monthly_forward_rates.csv
