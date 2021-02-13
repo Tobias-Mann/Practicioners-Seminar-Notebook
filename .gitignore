@@ -132,3 +132,10 @@ MSCI/MSCI_IndexCalcMethodology_Jan2020.pdf
 .DS_Store
 daily_forward_rates.csv
 monthly_forward_rates.csv
+optimal_weights.csv
+hedge_weights.csv
+alpha_weights.csv
+alpha_weights.csv
+hedge_weights.csv
+optimal_weights.csv
+alpha_weights.csv
